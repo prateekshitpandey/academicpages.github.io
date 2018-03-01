@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Under Construction"
+excerpt: "PhD. Student at ASC Upenn"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,23 +12,3 @@ redirect_from:
 A data-driven personal website
 ======
 
-
-Getting started
-======
-
-
-Site-wide configuration
-------
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-
-For more info
-------
