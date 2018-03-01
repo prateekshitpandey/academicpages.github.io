@@ -1,5 +1,10 @@
 ---
+permalink: /
 title: "Under Construction"
-excerpt: "The page is still under construction."
-sitemap: true
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+ **Coming Soon**
